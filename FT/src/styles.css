@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Lucida Console, sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container-fluid {
+    padding: 0.3rem;
+}
+
+.slogan-background {
+    background-image: linear-gradient( 90.1deg,  rgba(122,0,0,1) 8.1%, rgba(217,42,42,1) 74.4% );;
+}
+
+.slogan-text {
+    font-family: Lucida Sans Unicode, sans-serif;
+    color: black;
+}
+
+.slogan-image {
+    box-shadow: 4px 4px 20px 0 black;
+}
+
+.slogan-quote-color {
+    color: white;
+}
+
+.company-brand {
+    color: #f0f0f0;
+    font-family: Impact, sans-serif;
+}
+
+.attention-grabber {
+    color: #f0f0f0;
+    font-family: Impact, sans-serif;
+}
+
+.service-background {
+    background-image: linear-gradient( 110.6deg,  rgba(4,20,51,1) 11.3%, rgba(239,238,249,1) 91.7% );
+    color: white;
+}
+
+.nav-background {
+    background-image: linear-gradient( 89.2deg,  rgba(255,255,255,1) -1.3%, rgba(253,109,38,1) 281.6% );
+    color: white;
+}
+
+.company-name {
+    font-family: Impact;
+}
+
+.company-name-color {
+    color: red;
+    font-family: Impact;
+}
+
+.nav-links {
+    float: right;
+    list-style-type: none;
+    font-size: 0.9rem;
+}
+
+.about-slogan-title {
+    font-family: Impact;
+    color: black;
+    font-size: 2.6rem;
+}
+
+.about-us-subtitle {
+    font-family: Impact;
+}
+
+.service-cards {
+    background-image: linear-gradient( 91.2deg,  rgba(136,80,226,1) 4%, rgba(16,13,91,1) 96.5% );
+}
+
+.service-card-text {
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+.btn {
+    border-radius: 0.25rem;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+    overflow: hidden;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.alert {
+    border-radius: 0.25rem;
+}
+
+.form-background {
+    background-image: linear-gradient( 270.3deg,  rgba(84,212,228,1) 0.2%, rgba(68,36,164,1) 100% );
+}
