@@ -85,12 +85,19 @@ body {
     font-size: 2rem;
 }
 
+.service.subtitle {
+    font-family: 'Impact';
+    font-weight: 400;
+    color: orangered;
+    font-size: 1.5rem;
+}
+
 .service-highlight {
     font-family: 'Ink Free';
     font-weight: 400;
     font-display: swap;
     font-style: normal;
-    color: white;
+    color: #98fb98;
     font-size: 1.7rem;
 }
 
