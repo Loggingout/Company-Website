@@ -87,18 +87,14 @@ body {
 
 .service-subtitle {
     font-family: 'Impact';
-    font-weight: 400;
     color: orangered;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .service-highlight {
     font-family: 'Ink Free';
-    font-weight: 400;
-    font-display: swap;
-    font-style: normal;
     color: #98fb98;
-    font-size: 1.7rem;
+    font-size: 2.5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
