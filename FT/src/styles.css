@@ -79,6 +79,12 @@ body {
 .about-us-subtitle {
     font-family: Impact;
 }
+
+.service-background {
+    background: url("assets/images/blue%20%26%20purple%20background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
 .service-title {
     font-family: Impact;
     color: white;
